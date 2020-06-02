@@ -4,7 +4,9 @@ LaunchPad 🚀 is a simple API testing client. It is a simple alternative to Pos
 You need to know that LaunchPad 🚀 is not a full test client and can only be use to check if an API is working and to make POST, GET, DELETE and PUT from an endpoint.
 Postman is a complete API testing tool and i recommend it.
 
-![alt text](https://github.com/champ3oy/launchpad/blob/Screenshot/mobile.png?raw=true)
+![](Screenshot/mobile.png?raw=true)
+
+![](Screenshot/desktop.png?raw=true)
 
 ## How to build from source
 
